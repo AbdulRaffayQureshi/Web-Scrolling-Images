@@ -1,1 +1,1 @@
-# Web-Scrolling-Images
+# Scrolling-Web-Image
